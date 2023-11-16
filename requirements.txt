@@ -1,0 +1,22 @@
+library yang digunakan pada proyek :
+
+1. Library numpy
+	pip install numpy
+
+2. Library pandas
+	pip install pandas
+	
+3. Library matplotlib
+	pip install matplotlib
+	
+4. library seaborn
+	pip install seaborn
+	
+5. library Python-IO
+	pip install Python-IO
+	
+6. library streamlit
+	pip install streamlit
+	
+7. library millify
+	pip install millify
