@@ -13,5 +13,6 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit millify
 
 ## Run steamlit app
 ```
-streamlit run bikesharing.py
+streamlit run bikesharing.py --> for local
+or open https://bikesharingproject.streamlit.app/
 ```
